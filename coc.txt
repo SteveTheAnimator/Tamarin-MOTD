@@ -1,3 +1,19 @@
 code of conduct
 
-no be stinkey
+No blank nicknames.
+No inappropriate nicknames.
+No sexually explicit nicknames.
+No offensive nicknames.
+No nicknames with unusual or unreadable Unicode.
+No blank profile pictures.
+No inappropriate profile pictures.
+No sexually explicit profile pictures.
+No offensive profile pictures.
+No membership granted to minors (under 18 years).
+Moderators reserve the right to change nicknames.
+Moderators reserve the right to use their own discretion regardless of any rule.
+No exploiting loopholes in the rules (please report them).
+No DMing other members of the server.
+Rules apply to DMing other members of the server.
+No inviting unofficial bots.
+No bugs, exploits, glitches, hacks, bugs, etc.
