@@ -1,5 +1,6 @@
-Added horror
-
-Added Beach
-
-Added Better Lighting
+Removed Horror
+Added City
+Added Caves (WIP)
+Added Wardrobe
+Added jiggly movement
+New Rig!
