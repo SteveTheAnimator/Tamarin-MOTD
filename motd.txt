@@ -1,6 +1,2 @@
-Removed Horror
-Added City
-Added Caves (WIP)
-Added Wardrobe
-Added jiggly movement
-New Rig!
+Made everything pixelated
+Replaced Wall Wood With Dirt
