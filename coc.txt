@@ -1,19 +1,27 @@
-code of conduct
+Code of Conduct
 
-No blank nicknames.
-No inappropriate nicknames.
-No sexually explicit nicknames.
-No offensive nicknames.
-No nicknames with unusual or unreadable Unicode.
-No blank profile pictures.
-No inappropriate profile pictures.
-No sexually explicit profile pictures.
-No offensive profile pictures.
-No membership granted to minors (under 18 years).
-Moderators reserve the right to change nicknames.
-Moderators reserve the right to use their own discretion regardless of any rule.
-No exploiting loopholes in the rules (please report them).
-No DMing other members of the server.
-Rules apply to DMing other members of the server.
-No inviting unofficial bots.
-No bugs, exploits, glitches, hacks, bugs, etc.
+No Cheating
+No Bigotry
+No Harassment
+No Plagiarism
+No Discrimination
+No Sharing of Confidential Information
+No Bullying
+No Trolling
+No Spamming
+No Unauthorized Access
+No Vandalism
+No Threats or Intimidation
+No Impersonation
+No Inappropriate Content
+No Dishonesty
+No Violating Privacy
+No Misuse of Resources
+No Disruptive Behavior
+No Retaliation
+No Unapproved Modifications
+No Spamming RPCs
+No Spamming Cloud Scripts
+No Exploiting Bugs or Glitches
+No DDoS or Network Attacks
+No Unauthorized Scripting or Automation
