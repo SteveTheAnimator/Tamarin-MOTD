@@ -1,1 +1,1 @@
-Rigs are bugged at the moment, we are working on the issue!
+Fixed the rig issue!
